@@ -1,0 +1,5 @@
+export const PORTFOLIO_CARD_IMAGE_URL = 'https://api.qavo.az/files/project_card_images/'
+export const PORTFOLIO_IMAGE_URL = 'https://api.qavo.az/files/project_images/'
+export const PORTFOLIO_VIDEO_URL = 'https://api.qavo.az/files/project_videos/'
+export const PRODUCT_URL = 'https://api.qavo.az/files/project_videos/'
+export const OUR_TEAM_IMAGES_URL = 'https://api.qavo.az/files/our_team_images/'
